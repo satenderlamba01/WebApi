@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.AssemblyInfo.cs
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\bin\Debug\netcoreapp2.0\Assignment Web Api.deps.json
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\bin\Debug\netcoreapp2.0\Assignment Web Api.runtimeconfig.json
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\bin\Debug\netcoreapp2.0\Assignment Web Api.runtimeconfig.dev.json
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\bin\Debug\netcoreapp2.0\Assignment Web Api.dll
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\bin\Debug\netcoreapp2.0\Assignment Web Api.pdb
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.dll
+c:\users\user\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.pdb
+C:\Users\User\source\repos\Assignment Web Api\Assignment Web Api\obj\Debug\netcoreapp2.0\Assignment Web Api.csprojAssemblyReference.cache
